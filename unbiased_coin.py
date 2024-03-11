@@ -20,6 +20,7 @@ def play_game(games, cost_per_play, win_price):
 
     return earning
 
+
 def main():
     game_count = int(input("Total games: "))
     cost_per_play = int(input("Cost per play: "))
