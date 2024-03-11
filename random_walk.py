@@ -1,6 +1,4 @@
 import random
-import numpy as np
-import matplotlib.pyplot as plt
 
 
 def random_walk(direction_probabilities, steps, start=(0, 0), increment=1, decrement=1):
